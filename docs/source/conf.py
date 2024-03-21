@@ -35,9 +35,3 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 html_logo = "_static/Me.jpg"
-
-html_theme_options = {
-    "logo": {
-        "text": "scopa1811.com"
-    }
-}
